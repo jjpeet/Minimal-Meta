@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "uuid": "642168ac-0fe9-4e69-be37-9855e5cbd7eb",
+    "versionLabel": "1.0",
+    "longName": "Minimal - Meta",
+    "companyName": "james@jjpeet.com",
+    "versionCode": 1,
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "menu_image",
+                "file": "images/Meta_Watch_Face_small.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_META_BOLD_40",
+                "file": "fonts/MtBdLfRg.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_META_BOOK_30",
+                "file": "fonts/MtBkLfRg.ttf"
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": true
+    },
+    "shortName": "Minimal-Meta"
+}
